@@ -1,0 +1,75 @@
+h1{
+    color: chartreuse;
+    text-align: left;
+}
+
+
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+p{
+color: coral;
+
+}
+.first{
+    font-weight: bold;
+}
+.done{
+    text-decoration: line-through;
+}
+.third{
+    color: darkolivegreen;
+}
+.mydiv {
+    background-color: chartreuse;
+    width: 50%;
+    height: 50%;
+} 
+
+.div {
+    background-color: rgb(59, 10, 18);
+    width: 50%;
+    height: 50%;    
+    box-shadow:10px 15px 20px;
+}
+    
+
+.abc  {
+    border-style: solid; 
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    height: 400px;
+    padding-block: 10%;
+    box-shadow:10px 15px 20px;
+    
+
+}
+
+.def {
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    height: 400px;
+    padding-block: 10%;
+    box-shadow:10px 15px 20px;
+
+}
+.ghi {
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+    width:50%;
+    height: 200px;
+    padding-block: 10%;
+    box-shadow: 10px 15px 20px;
+
+}
+#yt {
+    font-family: sans-serif;
+
+}
